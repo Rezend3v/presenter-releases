@@ -1,12 +1,15 @@
 <div align="center">
 
-<img src="assets/icon.png" width="112" alt="Presenter">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
+  <img src="assets/logo-light.png" width="440" alt="LivePresenter">
+</picture>
 
-# Presenter
+<br><br>
 
 **Apresentação ao vivo para igrejas e eventos: letras, Bíblia, vídeos e telas de público e palco.**
 
-[![Versão](https://img.shields.io/github/v/release/Rezend3v/presenter-releases?label=vers%C3%A3o&color=007aff&style=for-the-badge)](https://github.com/Rezend3v/presenter-releases/releases/latest)
+[![Versão](https://img.shields.io/github/v/release/Rezend3v/presenter-releases?label=vers%C3%A3o&color=c6f686&style=for-the-badge)](https://github.com/Rezend3v/presenter-releases/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-2c2c2c?style=for-the-badge&logo=windows)](https://github.com/Rezend3v/presenter-releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/Rezend3v/presenter-releases/total?label=downloads&color=30a46c&style=for-the-badge)](https://github.com/Rezend3v/presenter-releases/releases)
 
@@ -16,7 +19,7 @@
 
 <br>
 
-<img src="assets/tela.png" alt="Janela do operador do Presenter" width="900">
+<img src="assets/tela.png" alt="Janela do operador do LivePresenter" width="900">
 
 </div>
 
@@ -39,18 +42,18 @@
 
 ## 💾 Instalar
 
-1. Baixe o **[Presenter-Setup](https://github.com/Rezend3v/presenter-releases/releases/latest)** da versão mais recente.
+1. Baixe o **[LivePresenter-Setup](https://github.com/Rezend3v/presenter-releases/releases/latest)** da versão mais recente.
 2. Abra o arquivo. Se o Windows mostrar **"O Windows protegeu o computador"**, clique em **Mais informações** → **Executar assim mesmo**.
    <sub>O aviso aparece porque o instalador ainda não tem assinatura digital; não é um problema com o arquivo.</sub>
 3. Escolha a pasta de instalação e pronto — o atalho fica na área de trabalho.
 
-> **Versão portátil:** o `Presenter-Portable` roda sem instalar (por exemplo, de um pendrive), mas **não recebe atualizações automáticas**. Para o dia a dia, prefira o instalador.
+> **Versão portátil:** o `LivePresenter-Portable` roda sem instalar (por exemplo, de um pendrive), mas **não recebe atualizações automáticas**. Para o dia a dia, prefira o instalador.
 
 ## 🔄 Atualizações automáticas
 
 A versão instalada se atualiza sozinha — não é preciso baixar de novo.
 
-- O Presenter procura versões novas ao abrir e a cada 4 horas, e baixa em segundo plano.
+- O LivePresenter procura versões novas ao abrir e a cada 4 horas, e baixa em segundo plano.
 - **Durante o culto nada acontece:** com a tela de público ou de palco no ar, ele não baixa nem mostra avisos, para não disputar a internet da transmissão.
 - Quando a atualização fica pronta, aparece um cartão discreto no canto: **Reiniciar e atualizar**, ou ela é instalada quando você fechar o programa.
 - Para verificar na hora: **Ajuda → Procurar atualizações…**
@@ -78,7 +81,7 @@ A versão instalada se atualiza sozinha — não é preciso baixar de novo.
 <details>
 <summary><b>Onde ficam minhas apresentações e mídias?</b></summary>
 
-Em `%APPDATA%\Presenter`. Atualizar ou reinstalar o programa não apaga a biblioteca.
+Em `%APPDATA%\LivePresenter`. Atualizar ou reinstalar o programa não apaga a biblioteca.
 </details>
 
 <details>
@@ -90,7 +93,7 @@ Sim. Instale em cada um e, se quiser manter tudo igual, ligue a sincronização 
 <details>
 <summary><b>A atualização vai interromper o culto?</b></summary>
 
-Não. Com público ou palco abertos, o Presenter não baixa nem pede para reiniciar. Nada é instalado sem você clicar em **Reiniciar e atualizar** ou fechar o programa.
+Não. Com público ou palco abertos, o LivePresenter não baixa nem pede para reiniciar. Nada é instalado sem você clicar em **Reiniciar e atualizar** ou fechar o programa.
 </details>
 
 <details>
@@ -102,5 +105,5 @@ Baixe sempre por esta página. No SmartScreen, clique em **Mais informações �
 ---
 
 <div align="center">
-<sub>Este repositório contém apenas os instaladores do Presenter · <a href="https://rezend3v.github.io/presenter-app/privacy.html">Política de privacidade</a></sub>
+<sub>Este repositório contém apenas os instaladores do LivePresenter · <a href="https://rezend3v.github.io/presenter-app/privacy.html">Política de privacidade</a></sub>
 </div>

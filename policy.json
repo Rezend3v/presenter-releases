@@ -1,4 +1,4 @@
 {
-  "payload": "{\"minVersion\":\"0.0.0\",\"message\":\"\",\"url\":\"https://github.com/Rezend3v/presenter-releases/releases/latest\",\"maxOfflineDays\":null,\"issuedAt\":1793216235518}",
-  "signature": "j4s8sx/4k4y0fWnqHdkm0H9mHVG46GN+JJ+x/Pf1nckg+1c5nryswYigplE+IauPKrOWeB+So1P5lY9EgfLHDA=="
+  "payload": "{\"minVersion\":\"0.0.0\",\"message\":\"\",\"url\":\"https://github.com/Rezend3v/presenter-releases/releases/latest\",\"maxOfflineDays\":null,\"requireLicense\":false,\"issuedAt\":1793293398034}",
+  "signature": "dfGKwMB9vlzsHVGh2iOGqT3/AsbL8gtLr0rSuuw/f5WvEx9MNlRK+sJMrPWWFuYXopWstJbe9Cu4QgJ0lG07Dw=="
 }

@@ -19,7 +19,7 @@
 
 <br>
 
-<img src="assets/tela.png" alt="Janela do operador do LivePresenter" width="900">
+<img src="assets/hero.jpg" alt="Janela do operador do LivePresenter: playlist, slides, prévia ao vivo, timers e mídia" width="900">
 
 </div>
 
@@ -39,6 +39,14 @@
 | ☁️ **Google Drive** | Sincronize biblioteca, temas e fontes entre os computadores da equipe. |
 | 🔁 **Importação** | Traga apresentações do ProPresenter 7 (`.pro`) e arquivos locais do Presenter by WorshipTools. |
 | ✍️ **Editor completo** | Texto, formas, imagem e vídeo, várias fontes no mesmo bloco, contorno, degradê, sombra e dezenas de temas prontos. |
+
+<p align="center">
+  <img src="assets/telas.jpg" alt="Tela do público e tela de palco do LivePresenter" width="900">
+</p>
+
+<p align="center">
+  <img src="assets/editor.jpg" alt="Editor de slides do LivePresenter" width="900">
+</p>
 
 ## 💾 Instalar
 
